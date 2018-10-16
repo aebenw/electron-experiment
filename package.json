@@ -1,0 +1,14 @@
+{
+  "name": "electronapp",
+  "version": "1.0.0",
+  "description": "An Example of an Electron App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Eben Woodward",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^3.0.4"
+  }
+}
